@@ -29,9 +29,9 @@ const CONFIG = {
   // --- COLORES ---
   colores: {
     color0: "#ffffff",
-    color1: "#eb5457",
+    color1: "#EB5457",
     color2: "#f8f3ed",
-    color3: "#eb5457",
+    color3: "#EB5457",
   },
 
   // --- TÍTULO DE LA PESTAÑA ---
